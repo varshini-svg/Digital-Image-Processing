@@ -6,9 +6,9 @@ This repository showcases practical digital image processing techniques with cle
 ---
 
 ### Key features
--	  Modular design: Each algorithm is a self-contained module with tests and docs.
-- 	Reproducible results: Deterministic pipelines with config-based runs and seeds.
--   Benchmark-ready: Consistent metrics, plots, and side-by-side comparisons.
+-	Modular design: Each algorithm is a self-contained module with tests and docs.
+- Reproducible results: Deterministic pipelines with config-based runs and seeds.
+- Benchmark-ready: Consistent metrics, plots, and side-by-side comparisons.
 
 --- 
 
