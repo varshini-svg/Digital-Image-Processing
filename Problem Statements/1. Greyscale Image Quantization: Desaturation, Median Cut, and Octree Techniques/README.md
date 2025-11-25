@@ -1,4 +1,4 @@
-# Greyscale Image Quantisation
+# Grayscale Image Quantisation
 
 ### Overview
 This project demonstrates color quantization and non-uniform spatial quantization techniques in digital image processing. It uses K-Means clustering for color reduction and a QuadTree algorithm for adaptive block-based spatial quantization. The notebook also generates multiple graphs to visualize distortions, cluster centers, histograms, block size distributions, and variance distributions.
