@@ -12,8 +12,8 @@ This project demonstrates color quantization and non-uniform spatial quantizatio
 - Pixel intensity histograms for original image channels.
 
 2. Non-Uniform Spatial Quantization (QuadTree)
-• 	Adaptive block splitting based on variance threshold.
-• 	Reconstructed image using average block colors.
-• 	Graphs showing block size distribution and variance distribution.
-• 	Automated Output Saving
-• 	All images and graphs are saved to a dedicated folder 
+- 	Adaptive block splitting based on variance threshold.
+- 	Reconstructed image using average block colors.
+- 	Graphs showing block size distribution and variance distribution.
+- 	Automated Output Saving
+- 	All images and graphs are saved to a dedicated folder 
